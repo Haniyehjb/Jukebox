@@ -11,50 +11,5 @@ Sleek & User-Friendly Interface: Enjoy a smooth and intuitive experience, design
 Get Started
 Ready to democratize your music experience? Here's how to get The Jukebox App up and running:
 
-Clone the Repository:
-
-Bash
-
-git clone https://github.com/your-username/jukebox-app.git
-Navigate to the Project Directory:
-
-Bash
-
-cd jukebox-app
-Install Dependencies:
-
-Bash
-
-npm install # or yarn install, depending on your package manager
-Run the App:
-
-Bash
-
-npm start # or yarn start
-(These commands are examples and might vary based on your specific tech stack.)
-
-Built With
-[Placeholder for your Frontend Framework (e.g., React, Vue, Angular)] – For the interactive user interface.
-
-[Placeholder for your Backend Language/Framework (e.g., Node.js, Python/Django, Ruby on Rails)] – Powering the song queue, voting, and data management.
-
-[Placeholder for your Database (e.g., PostgreSQL, MongoDB, Firebase)] – Storing song information, votes, and user data.
-
-[Placeholder for Real-time Communication (e.g., WebSockets, Socket.IO)] – For instant updates to all connected users.
-
-Contributing
-We welcome contributions of all kinds! If you have ideas for new features, find a bug, or want to improve the code, please feel free to:
-
-Fork the repository.
-
-Create a new branch (git checkout -b feature/AmazingFeature).
-
-Make your changes.
-
-Commit your changes (git commit -m 'Add some AmazingFeature').
-
-Push to the branch (git push origin feature/AmazingFeature).
-
-Open a Pull Request.
 
 This project is part of the Advanced Programming course at Isfahan University of Technology.
